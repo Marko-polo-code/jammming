@@ -2,7 +2,7 @@ let accessToken;
 const CLIENT_ID = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.REACT_APP_SPOTIFY_CLIENT_SECRET;
 // const redirectUri = 'http://localhost:3000/';
-const redirectUri = 'https://jammmingwithmark.surge.sh';
+const redirectUri = 'https://www.jammmingwithmark.surge.sh';
 
 const Spotify= {
   getAccessToken() {
