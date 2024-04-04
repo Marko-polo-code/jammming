@@ -13,10 +13,11 @@ Jammming is a web application that allows users to search for music tracks on Sp
 
 ## Getting Started (Non-Developer)
 To use Jammming, follow these steps:
-1. Follow this link: jammmingwithmark.surge.sh
-2. Serch for a title or artist or album name.
-3. Spotify will ask for your email and passord.
-4. Once entered you will be redirected to Jammming and able to search for tracks save playlists to your spotify account.
+1. Follow this link: [Jammming](https://jammmingwithmark.surge.sh)
+2. Search for a title or artist or album name.
+3. Google might flag the website unsafe, you can go to advance and proceed to the website.
+3. Spotify will ask for your email and password to connect your account.
+4. Once entered you will be redirected to Jammming and able to search for tracks and save playlists to your spotify account.
 
 ## Getting Started (Developers)
 To use Jammming, follow these steps:
